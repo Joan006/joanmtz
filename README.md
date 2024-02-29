@@ -13,8 +13,14 @@
 [![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Reflex Badge](https://img.shields.io/badge/Reflex-4285F4?style=for-the-badge&logo=generic&logoColor=white)](https://example.com/reflex)
 
+## Estudiando actualmente
+[![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![React Native Badge](https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+
+
 ## Otros:
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
 
 # 🦦 🦦 🦦
