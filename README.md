@@ -13,7 +13,7 @@
 [![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Reflex Badge](https://img.shields.io/badge/Reflex-4285F4?style=for-the-badge&logo=generic&logoColor=white)](https://example.com/reflex)
 
-## Estudiando actualmente
+## Tecnologías Estudiando actualmente
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![React Native Badge](https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 
